@@ -7,14 +7,16 @@ menus:
     title: About
     weight: 2
 template: page
+
 ---
+_./ Mi chiamo Daniele, mi interesso di Grafica 3D, design, tecnologia e vado matto per i gadget. Nella vita progetto ambienti bagno, ma sogno da sempre di poter lavorare per uno studio grafico di alto livello._
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Detesto il calcio quanto adoro la bicicletta, anche se i chilometri che riesco a percorrere ogni anno sono sempre sotto le mie aspettative.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Ho aperto questo sito un po' come un blocco appunti, un blocco appunti consultabile da tutti e spero che possa essere di qualche utilità a chi cerca determinate informazioni. Oltre a questo lo faccio per imparare un po' di linguaggio web, con la promessa di imparare a programmare prima o poi.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Utilizzo Linux, Windows e non più Mac, per via della espandibilità, ho imparato ad usare Blender ad un discreto livello, la mia mission per quest'anno è portare la mia competenza a livello professionale prima di dedicarmi ad un altro software commerciale, per poi decidere se vale la pena usare altro o rimanere su Blender, pero poi scegliere in quale buttarmi a livello professionale.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Compro gadget di continuo di cui vi potrò spesso parlare nel dettaglio, ho perso la testa per le tastiere meccaniche e vivo una fase di continuo rimbalzo tra iOs e Android, continuando a stufarmi dell'uno e dell'altro dopo qualche mese di utilizzo.
 
-*Thank You for reading!*
+Buona lettura!
